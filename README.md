@@ -13,7 +13,7 @@ This project presents a comprehensive HR Analytics Dashboard built using Tableau
 # Dashboard Features    
 - Attrition Analysis: Visual representation of attrition rates across departments, job roles, and demographics.
 - Demographic Insights: Breakdown of employees by age group, gender, and education field.
-- Job Satisfaction: Analysis of job satisfaction levels across different roles.
+- Job Satisfaction: Analysis of job satisfaction levels across different roles. 
 - Interactive Filters: Allows users to drill down into specific segments for detailed analysis.
 
 # Key Insights 
