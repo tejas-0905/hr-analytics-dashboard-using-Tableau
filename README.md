@@ -16,7 +16,7 @@ This project presents a comprehensive HR Analytics Dashboard built using Tableau
 - Job Satisfaction: Analysis of job satisfaction levels across different roles.
 - Interactive Filters: Allows users to drill down into specific segments for detailed analysis.
 
-# Key Insights
+# Key Insights 
 - Departments with the highest attrition rates.
 - Correlation between job satisfaction and employee turnover.
 - Demographic groups most affected by attrition.
