@@ -7,7 +7,7 @@ This project presents a comprehensive HR Analytics Dashboard built using Tableau
 - Enable HR professionals to make data-driven decisions to improve employee retention.
    
 # Tools & Technologies 
-- Tableau Desktop: For building interactive dashboards and visual analytics.   
+- Tableau Desktop: For building interactive dashboards and visual analytics.    
 - Microsoft Excel: Data source format for employee records and attrition data. 
     
 # Dashboard Features    
