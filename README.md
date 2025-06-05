@@ -9,7 +9,7 @@ This project presents a comprehensive HR Analytics Dashboard built using Tableau
 # Tools & Technologies 
 - Tableau Desktop: For building interactive dashboards and visual analytics.   
 - Microsoft Excel: Data source format for employee records and attrition data.
-  
+    
 # Dashboard Features    
 - Attrition Analysis: Visual representation of attrition rates across departments, job roles, and demographics.
 - Demographic Insights: Breakdown of employees by age group, gender, and education field.
