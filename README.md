@@ -18,5 +18,5 @@ This project presents a comprehensive HR Analytics Dashboard built using Tableau
 
 # Key Insights 
 - Departments with the highest attrition rates.
-- Correlation between job satisfaction and employee turnover.
+- Correlations between job satisfaction and employee turnover.
 - Demographic groups most affected by attrition.
