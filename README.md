@@ -15,7 +15,7 @@ A comprehensive interactive Tableau dashboard that visualizes key human resource
 
 ## 🖥️ Dashboard Preview
 
-![HR Analytics Dashboard](assets/dashboard-preview.png)
+![HR Analytics Dashboard](tableau_hr_dashboard.jpg)
 
 ## Dashboard Features    
 - Attrition Analysis: Visual representation of attrition rates across departments, job roles, and demographics.
