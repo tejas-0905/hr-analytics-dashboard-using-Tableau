@@ -1,5 +1,5 @@
 ##  HR Dashboard using Tableau
-This project presents a comprehensive HR Analytics Dashboard built using Tableau. It visualizes key workforce metrics such as employee attrition, department-wise and education-wise trends, age distribution, gender-based attrition, and job satisfaction across various roles. 
+A comprehensive interactive Tableau dashboard that visualizes key human resources metrics to help HR professionals gain meaningful insights and drive data-driven decisions.
 
 # Objectives   
 - Analyze employee attrition patterns and identify key factors contributing to turnover.
