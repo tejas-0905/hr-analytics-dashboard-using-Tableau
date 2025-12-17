@@ -13,7 +13,7 @@ A comprehensive interactive Tableau dashboard that visualizes key human resource
 | **Microsoft Excel** | Source dataset file (HR data in `.xlsx` format) |
 | **GitHub**          | Repository hosting and documentation            |
 
-## 🖥️ Dashboard Preview
+##  Dashboard Preview
 
 ![HR Analytics Dashboard](tableau_hr_dashboard.jpg)
 
