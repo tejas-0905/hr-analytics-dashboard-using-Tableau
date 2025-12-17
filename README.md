@@ -13,9 +13,6 @@ A comprehensive interactive Tableau dashboard that visualizes key human resource
 | **Microsoft Excel** | Source dataset file (HR data in `.xlsx` format) |
 | **GitHub**          | Repository hosting and documentation            |
 
-[1]: https://github.com/tejas-0905/hr-analytics-dashboard-using-Tableau "GitHub - tejas-0905/hr-analytics-dashboard-using-Tableau: This project presents a comprehensive HR Analytics Dashboard built using Tableau. It visualizes key workforce metrics such as employee attrition, department-wise and education-wise trends, age distribution, gender-based attrition, and job satisfaction across various roles."
-
-    
 # Dashboard Features    
 - Attrition Analysis: Visual representation of attrition rates across departments, job roles, and demographics.
 - Demographic Insights: Breakdown of employees by age group, gender, and education field.
